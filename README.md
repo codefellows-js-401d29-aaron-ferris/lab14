@@ -9,11 +9,11 @@ Whiteboard completed with: Cory Henderson, Jon Gentry, Vanessa Wei
 ### Links and Resources
 * [pull request](https://github.com/codefellows-js-401d29-aaron-ferris/lab14/pull/1)
 * [travis](https://travis-ci.com/codefellows-js-401d29-aaron-ferris/lab14)
-* [back-end](https://dashboard.heroku.com/apps/aqueous-river-65630) (when applicable)
+* [back-end](https://aaron-js401-lab14.herokuapp.com/) Heroku deployment
 
 #### Documentation
 * [swagger](https://dashboard.heroku.com/apps/aqueous-river-65630/doc) 
-* [jsdoc](http://xyz.com) (All assignments)
+* [jsdoc](https://aaron-js401-lab14.herokuapp.com/doc) trying to connect
 
 ### Modified Modules
 #### `router.js`
