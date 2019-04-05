@@ -1,7 +1,7 @@
 'use strict';
 
 require('dotenv').config();
-
+console.log(process.env)
 // Start up DB Server
 const mongoose = require('mongoose');
 const options = {
