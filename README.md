@@ -7,10 +7,9 @@
 Whiteboard completed with: Cory Henderson, Jon Gentry, Vanessa Wei
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [pull request](https://github.com/codefellows-js-401d29-aaron-ferris/lab14/pull/1)
+* [travis](https://travis-ci.com/codefellows-js-401d29-aaron-ferris/lab14)
+* [back-end](https://dashboard.heroku.com/apps/aqueous-river-65630) (when applicable)
 
 #### Documentation
 * [swagger](http://xyz.com) (API assignments only)
