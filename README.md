@@ -12,7 +12,7 @@ Whiteboard completed with: Cory Henderson, Jon Gentry, Vanessa Wei
 * [back-end](https://dashboard.heroku.com/apps/aqueous-river-65630) (when applicable)
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
+* [swagger](https://dashboard.heroku.com/apps/aqueous-river-65630/doc) 
 * [jsdoc](http://xyz.com) (All assignments)
 
 ### Modified Modules
